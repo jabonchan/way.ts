@@ -1,7 +1,5 @@
 # Changelog 📰
 
-### nightly *"Nightly"*
-
 ### v0.0.1 *"The Beginnings"*
 
 - ([#9a3827d](https://github.com/jabonchan/way.ts/commit/9a3827d1fd40b012b5bf09eba9fa43fb702db0ce)) Implemented new method `isDriveLetter`.
